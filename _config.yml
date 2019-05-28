@@ -29,6 +29,8 @@ projects:
       - pub-yes
       - yest
       - archive-crypto
+      - yest-the-docs
+      - bahamas-crypto
 
 social_media:
   website: https://infominer.id/
