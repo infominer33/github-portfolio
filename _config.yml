@@ -24,7 +24,7 @@ projects:
   limit: 15
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
       - pub-yes
       - yest
