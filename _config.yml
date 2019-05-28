@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 15
+  limit: 12
   exclude:
     archived: false
     forks: false
@@ -36,7 +36,11 @@ projects:
       - learn-python
       - webpage-webmentions
       - rwot3-sf
+      - rwot1-sf
+      - rwot2-id2020
+      - google-sheet-to-github-website
       - identity-commons
+      - neo-hpstr-jekyll-theme
 
 social_media:
   website: https://infominer.id/
