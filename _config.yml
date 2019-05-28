@@ -34,6 +34,9 @@ projects:
       - "404"
       - about-cryptography
       - learn-python
+      - webpage-webmentions
+      - rwot3-sf
+      - identity-commons
 
 social_media:
   website: https://infominer.id/
