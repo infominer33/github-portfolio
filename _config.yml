@@ -31,6 +31,9 @@ projects:
       - archive-crypto
       - yest-the-docs
       - bahamas-crypto
+      - 404
+      - about-cryptography
+      - learn-python
 
 social_media:
   website: https://infominer.id/
